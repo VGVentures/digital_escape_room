@@ -1,0 +1,10 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Checking API key",
+      "type": "shell",
+      "command": "echo $GOOGLE_GENERATIVE_AI_API_KEY"
+    }
+  ]
+}

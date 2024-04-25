@@ -1,0 +1,91 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "escape-room-04.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "escape-room-01.tmx": {
+            "expandedGroupLayers": [
+                42
+            ],
+            "scale": 3,
+            "selectedLayer": 9,
+            "viewCenter": {
+                "x": 320.16666666666663,
+                "y": 181.83333333333331
+            }
+        },
+        "escape-room-02.tmx": {
+            "expandedObjectLayers": [
+                12
+            ],
+            "scale": 3.0296093749999997,
+            "selectedLayer": 48,
+            "viewCenter": {
+                "x": 317.69772299440416,
+                "y": 181.70659377498131
+            }
+        },
+        "escape-room-03.tmx": {
+            "expandedGroupLayers": [
+                27
+            ],
+            "scale": 3.0296093749999997,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 320.3383274452668,
+                "y": 184.01712266948607
+            }
+        },
+        "escape-room-04.tmx": {
+            "expandedGroupLayers": [
+                27
+            ],
+            "scale": 3.0296093749999997,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 310.7661363108899,
+                "y": 184.01712266948607
+            }
+        },
+        "office_items.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "room_builder.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "/Users/jorgecoca/Projects/vgv/digital_nightmare_escape_room/assets/images/modern_office",
+    "map.height": 23,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 40,
+    "openFiles": [
+        "escape-room-01.tmx",
+        "escape-room-02.tmx",
+        "escape-room-03.tmx",
+        "escape-room-04.tmx"
+    ],
+    "project": "Digital Nightmare Escape Room.tiled-project",
+    "property.type": "entity_type",
+    "recentFiles": [
+        "escape-room-01.tmx",
+        "escape-room-02.tmx",
+        "escape-room-03.tmx",
+        "escape-room-04.tmx",
+        "room_builder.tsx",
+        "office_items.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}

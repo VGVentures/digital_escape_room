@@ -1,0 +1,46 @@
+name: digital_escape_room
+description: A Very Good Project created by Very Good CLI.
+version: 1.0.0+1
+publish_to: none
+
+environment:
+  sdk: ">=3.1.0 <4.0.0"
+  flutter: 3.19.0
+
+dependencies:
+  ai_client:
+    path: packages/ai_client
+  bloc: ^8.1.4
+  equatable: ^2.0.5
+  flame: ^1.17.0
+  flame_behaviors: ^1.0.0
+  flame_tiled: ^1.20.0
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.4
+  flutter_localizations:
+    sdk: flutter
+  formz: ^0.7.0
+  game_repository:
+    path: packages/game_repository
+  intl: ^0.18.0
+  nes_ui: ^0.19.0
+  statistics_repository:
+    path: packages/statistics_repository
+
+dev_dependencies:
+  bloc_test: ^9.1.7
+  flame_test: ^1.16.1
+  flutter_test:
+    sdk: flutter
+  mocktail: ^1.0.0
+  very_good_analysis: ^5.1.0
+
+flutter:
+  uses-material-design: true
+  generate: true
+  assets:
+    - assets/images/modern_office/
+    - assets/images/characters/
+    - assets/licenses/modern_office/
+    - assets/tiles/

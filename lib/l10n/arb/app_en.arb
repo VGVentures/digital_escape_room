@@ -1,0 +1,53 @@
+{
+  "@@locale": "en",
+  "enterEscapeRoom": "Enter The Escape Room",
+  "createCustomGame": "Creating your personalized game",
+  "gameOver": "GAME OVER",
+  "wrongAnswers": "Wrong Answers",
+  "hints": "Hints Allowed",
+  "wouldYouLikeAHint": "Woud You Like A Hint?",
+  "wrongAnswer": "Wrong Answer!",
+  "timeRemaining": "Time Remaining",
+  "puzzleTime": "Puzzle Time!",
+  "puzzlesSolved": "Puzzles Solved",
+  "startNewGame": "Start A New Game",
+  "pickThreeAreas": "Pick At Least 3 Areas Of Interest",
+  "infrastructure": "Infrastructure",
+  "ai": "Artificial Intelligence",
+  "mobileApps": "Mobile Apps",
+  "devOps": "DevOps",
+  "uiUx": "UI/UX",
+  "productDevelopment": "Product Development",
+  "web": "Web",
+  "ar": "Augmented Reality",
+  "databases": "Databases",
+  "apis": "APIs",
+  "security": "Security",
+  "testing": "Testing",
+  "productivity": "Productivity",
+  "welcomeToEscapeRoom": "Welcome To The Digital Escape Room!",
+  "name": "Name",
+  "company": "Company",
+  "jobTitle": "Job Title",
+  "escapeRoomReport": "Your Personalized Escape Room Report",
+  "congratulations": "CONGRATULATIONS!",
+  "gameOver": "GAME OVER!",
+  "thankYou": "Thank you, {name}, for playing Very Good Ventures's Digital Nightmare Escape Room",
+  "@thankYou": {
+    "placeholder": {
+      "name": {
+        "type": "String",
+        "example": "Steve Jobs"
+      }
+    }
+  },
+  "gameResults": "These are your game results:",
+  "gameStats": "Game Stats",
+  "aiPrompt": "Your A.I. Prompt",
+  "enterYourEmail": "Enter Your Email",
+  "noEventsRecorded": "Wow! This was truly a hard escape room. Would you like to try again?",
+  "email": "Email",
+  "gameDisclaimerTitle": "How do we use the information provided?",
+  "gameDisclaimer": "In order to create a custom and unique gaming experience, we use your name, company, job title and areas of interest to build the prompt we send to Gemini, the AI that powers the game mechanics.",
+  "optIn": "Opt-In to receive communications about Very Good Ventures"
+}
